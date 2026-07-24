@@ -34,5 +34,5 @@ Developed by Team HackMatrix for FinSpark'26 Hackathon.
 ## 👩‍💻 Author
 **Nithya Shree**
 - GitHub: https://github.com/nithyashree539
-- LinkedIn: (Add your LinkedIn link)
+- LinkedIn: https://www.linkedin.com/in/nithya-shree-500293
 - Portfolio: https://venerable-tartufo-404e8a.netlify.app/
